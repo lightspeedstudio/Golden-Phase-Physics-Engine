@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>GoldenPhase</RootNamespace>
+    <AssemblyName>GoldenPhase</AssemblyName>
+    <Version>0.1.0</Version>
+    <Authors>LightSpeed Studio LLC</Authors>
+    <Description>Golden Phase SDK for .NET</Description>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+</Project>

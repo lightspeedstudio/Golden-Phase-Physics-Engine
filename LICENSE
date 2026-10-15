@@ -1,0 +1,57 @@
+GOLDEN PHASE COMMUNITY LICENSE
+
+Version 1.0, October 2026
+
+Copyright (c) 2026 LightSpeed Studio LLC. All Rights Reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Golden Phase SDK and associated documentation files (the
+"SDK"), to use the SDK for personal, educational, or noncommercial
+experimentation purposes, subject to the following conditions:
+
+1. PERMITTED USES
+
+   - Personal learning and experimentation
+   - Academic research and classroom use
+   - Open-source noncommercial projects
+   - Independent game development prototypes (noncommercial)
+   - Scientific research and publication
+
+2. RESTRICTIONS
+
+   - The SDK and runtime may NOT be used in commercial products,
+     services, or deployed software without a Commercial or Enterprise
+     license from LightSpeed Studio LLC.
+
+   - The Golden Phase Runtime binary (gphase_runtime.exe) may NOT be
+     reverse-engineered, decompiled, or disassembled.
+
+   - The SDK may NOT be redistributed as part of a competing physics
+     engine or simulation framework.
+
+3. ATTRIBUTION
+
+   Publications or projects using Golden Phase must include:
+
+   "Powered by Golden Phase — (c) LightSpeed Studio LLC"
+
+4. NO WARRANTY
+
+   THE SDK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+   NONINFRINGEMENT. IN NO EVENT SHALL LIGHTSPEED STUDIO LLC BE LIABLE
+   FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF
+   THE SDK.
+
+5. TERMINATION
+
+   This license terminates automatically if you violate any of its
+   terms. Upon termination, you must destroy all copies of the SDK
+   and runtime in your possession.
+
+For Commercial, Academic, and Enterprise licensing:
+  contact@lightspeedstudio.com
+
+For more information:
+  https://goldenphase.dev

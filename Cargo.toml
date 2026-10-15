@@ -1,0 +1,14 @@
+﻿[workspace]
+resolver = "2"
+members = [
+    "crates/gphase_protocol",
+    "crates/goldenphase",
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.89"
+license = "LicenseRef-LSS-Community"
+authors = ["LightSpeed Studio LLC"]
+repository = "https://github.com/lightspeedstudio/Golden-Phase-Physics-Engine"

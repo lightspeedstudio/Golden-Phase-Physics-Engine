@@ -1,0 +1,9 @@
+﻿/target
+__pycache__/
+*.pyc
+.vs/
+*.dll
+*.exe
+*.so
+*.dylib
+*.pdb

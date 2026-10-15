@@ -1,0 +1,14 @@
+[package]
+name = "goldenphase"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+description = "Golden Phase SDK — thin C-ABI client that talks to gphase_runtime. Contains no kernel code."
+
+[lib]
+name = "goldenphase"
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+gphase_protocol = { path = "../gphase_protocol" }
